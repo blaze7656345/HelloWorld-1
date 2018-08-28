@@ -1,5 +1,5 @@
 # HelloWorld
 
 created by Isaac
-assignment 1A
+Assignment 1A: Create GitHub Page
 8-28-2018
