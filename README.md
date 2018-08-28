@@ -1,5 +1,5 @@
 # HelloWorld
 
-#created by Isaac
-#assignment 1A
-#8-28-2018
+created by Isaac
+assignment 1A
+8-28-2018
